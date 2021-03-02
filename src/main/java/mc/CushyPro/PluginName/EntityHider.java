@@ -1,4 +1,4 @@
-package mc.CushyPro.TestPlugin;
+package mc.CushyPro.PluginName;
 
 package com.comphenix.example;
 

@@ -1,4 +1,4 @@
-package mc.CushyPro.TestPlugin;
+package mc.CushyPro.PluginName;
 
 import java.io.File;
 import java.util.Locale;

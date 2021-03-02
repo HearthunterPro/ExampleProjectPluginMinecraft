@@ -1,4 +1,4 @@
-package mc.CushyPro.TestPlugin;
+package mc.CushyPro.PluginName;
 
 import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.YamlConfiguration;
