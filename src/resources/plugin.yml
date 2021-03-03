@@ -1,11 +1,11 @@
-name: HckMember
+name: ExamplePlugin
 version: ${project.version}
-main: mc.cushypro.hckmember.HckMember
+main: mc.cushypro.PluginName.MyMain
 authors: [ CushyPro ]
-description: Test
+description: Example Plugin
 commands:
-  hckmember:
-    aliases: [hm, k, s]
+  exam:
+    aliases: []
     usage: /hm help
-    description: AKLFGKAKWFPOKAPWJGPIAJGJPAPGIJAPIGPIAKPIGKPIKWPIGJIOAJIHGJNIKAHGk
+    description: A
     permission: hm.use
