@@ -1,0 +1,11 @@
+name: HckMember
+version: ${project.version}
+main: mc.cushypro.hckmember.HckMember
+authors: [ CushyPro ]
+description: Test
+commands:
+  hckmember:
+    aliases: [hm, k, s]
+    usage: /hm help
+    description: AKLFGKAKWFPOKAPWJGPIAJGJPAPGIJAPIGPIAKPIGKPIKWPIGJIOAJIHGJNIKAHGk
+    permission: hm.use
